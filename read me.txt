@@ -1,0 +1,116 @@
+version 0.9
+
+LIST OF FEATURES:
+-Gathering field; This is the field you will be gathering pollen in. you can select multiple
+field options and the macro will rotate you between these fields for every gathering cycle
+
+-Convert type; You can select None, which will not convert when you return to hive. You can
+select Reset Convert, which will reset your character back to hive and convert balloon pollen.
+lastly you can choose rejoin convert, which will rejoin the server to keep your bag pollen/convert
+
+-Gathering path; This will be the type of path you use when gathering
+
+-Private Link; This is where you enter your private server link to rejoin the server
+
+-Saturator; Select your saturator type so the macro can place these in the correct pattern
+
+-Clock; Will use the wealth clock every hour
+
+-Samovar; Will activate the samovar every 6 hours and collect tokens
+
+-Mondo; Will go to mountain top to damage the mondo. this will take 2 minutes and will not collect loot
+
+-Candles; This will activate candles every 4 hours and collect token
+
+-Feast; This will activate feast every 1.5 hours and collect tokens
+
+-Wreath; This will activate the wreath every 30 minutes and collect tokens
+
+-Sockings; This will activate stockings every hour and collect tokens
+
+-Red boost; this will activate red field booster every hour
+
+-Blue boost; this will activate blue field booster every hour
+
+-Mountain boost; this will activate mountain top field booster every hour
+
+-Planters; you can select up to 3 fields for each planter. the macro will move the planter
+to the next field when it gathers the planter
+
+-Planter hotbar; this is where you select which hotbar your planter is, you can change this for
+each field
+
+-Check plants; you can select how often you want to check on your plants
+
+-Harvest when; you can select full grown or always. always will collect before its finished growing
+full grown will only harvest when its finished growing
+
+-Quests; when enabled the macro will open your quest tab and image search for specific quests
+make sure the selected quest is visible on the quest tab and that your display scale is 100%
+The quest code will be activated between every gathering cycle. the macro will continue
+with its usual tasks between killing bugs.
+
+-Bug run settings; you can select any bugs and the macro will kill them when they are ready
+
+-Buff settings; Select how often you want each hotbar to be activated, select use at hive
+if you only want to use the materials at hive and not in the field
+
+-Just autobuff; this is a button to be used when you are manually boosting but want
+the macro to activate your materials for you
+
+-Hive slot; select which hive slot you claimed/want to claim so the macro knows how far
+you are from the cannon
+
+-Movespeed; this only effects the movement to the cannon. select less than 28 if you do not make it all the way
+
+-Graphics settings; High images were taken at graphics setting 9, low images were taken at graphics setting 4
+
+-Resolution; Select your resolution: 4k, 1920x1080, 1280x720
+
+-Gui Theme; Select between several windows styles included with the program and it will reskin the GUI
+
+-Gathering time; this is the max amount of time you will spend gathering in each field assuming your bag doesnt fill first
+
+-Reset Plant timers; use this to reset the saved times in the config file
+
+-Always on Top; keeps the gui on top of all other windows
+
+you must extract all files from the zip for image searching to work
+shift lock must be enabled (doesnt have to be on. just enabled)
+designed for 28 movespeed but can be run at higher or lower
+
+if the macro only spins around your camera at hive, 
+the image searches are not working. try these few things:
+- make sure all files have been extracted
+- select a graphics setting and resolution setting in the gui
+- adjust your own graphics settings on the roblox client
+if that fails, you would have to replace the image files in the
+image assets with your own
+
+if you have any issues or suggestions please let me know
+
+Public Server Links:
+
+Server #1: https://www.roblox.com/games/1537690962/Bee-Swarm-Simulator?privateServerLinkCode=qE4lbR1uled78oiyrG8tZvaXtUL9ixRs
+
+Server #2: https://www.roblox.com/games/1537690962/Bee-Swarm-Simulator?privateServerLinkCode=gvsYOPClquC4SLSUoRBc_ffILzQfdsbQ
+
+Server #3: https://www.roblox.com/games/1537690962/Bee-Swarm-Simulator?privateServerLinkCode=uFpeOl1qh6xOndlkncMcWyp68v9y6ERV
+
+Server #4: https://www.roblox.com/games/1537690962/Bee-Swarm-Simulator?privateServerLinkCode=qxlwJHv_5Z2m5vp_JQ70tQ-6nZIZUelr
+
+Server #5: https://www.roblox.com/games/1537690962/Bee-Swarm-Simulator?privateServerLinkCode=B-iNcVePWfmsQudjSmdDL37f-Du4LV7q
+
+Server #6: https://www.roblox.com/games/1537690962/Bee-Swarm-Simulator?privateServerLinkCode=-QRxHg16PjcN5G_gEb5yJbE1gtvwbwcq
+
+Server #7: https://www.roblox.com/games/1537690962/Bee-Swarm-Simulator?privateServerLinkCode=PCAWTht4WUPpX46rDfBVwcps9LG3rmg4
+
+Server #8: https://www.roblox.com/games/1537690962/Bee-Swarm-Simulator?privateServerLinkCode=ltxFzW4aqIvMpeUSZEs8aJyVTeiu9AIT
+
+Server #9: https://www.roblox.com/games/1537690962/Bee-Swarm-Simulator?privateServerLinkCode=fqXvusqwLpHQ1h4x3mFZ858R0tiwZXXW
+
+Server #10: https://www.roblox.com/games/1537690962/Bee-Swarm-Simulator?privateServerLinkCode=ofB6xNUNcYPHMyjd39547UwzVB-XMoXJ
+
+Server #11: https://www.roblox.com/games/1537690962?privateServerLinkCode=25455981855829016984662224444169
+
+Server #12: https://www.roblox.com/games/1537690962?privateServerLinkCode=30995686900135891008519492963386
